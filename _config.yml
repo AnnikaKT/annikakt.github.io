@@ -47,12 +47,6 @@ instagram_username: beinahemathematikerin
 # - username: jekyll2
 #   instance: example.com
 
-header_pages:
-  - 01_talks.markdown
-  - 02_activities.markdown
-  - 03_teaching.markdown
-  - 04_talents.markdown
-
 # Build settings
 theme: minima
 plugins:

@@ -8,7 +8,7 @@ permalink: /talks/
 
 If you are interested in notes of my talks, please let me know!
 
-* _Lie groupoids, connections and representations up to homotopy_
+* _Lie groupoids, connections and representations up to homotopy_  
 26.07.2026 at the [Lie groupoid and Lie algebroid week IV](https://sites.google.com/view/lieg-liea-coimbra-iv) (University of Coimbra)
 * _The differentiable stack cohomology associated to a regular Lie groupoid_  
 24.10.2025 at the [Friday Fish seminar](https://utrechtgeometrycentre.nl/friday-fish-seminar-online-edition/) (Utrecht university)

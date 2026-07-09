@@ -6,7 +6,7 @@ permalink: /seminar26/
 
 ### Student seminar
 
-In the summer term of 2026, Christian Blohmann and I will hold a seminar for Master's students of Bonn university.
+In the summer term of 2026, Christian Blohmann and I are holding a seminar for Master's students of Bonn university.
 
 The seminar will take place each Wednesday at 14 h c.t. in room 1.008.
 

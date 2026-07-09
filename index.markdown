@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Welcome to my homepage!
+-# Welcome to my homepage!
 
 <figure style="float:right; padding-left:20px; padding-bottom:20px;">
   <img src="/pictures/Portrait.jpg" alt="Portrait from 2022" width="200"/>

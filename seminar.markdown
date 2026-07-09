@@ -34,13 +34,12 @@ The current version of the seminar plan is [as follows](\seminar_plan.pdf). The 
 * 17.6.2026:
     * Simplicial manifolds and the Bott-Shulman-Stasheff complex
     * The nerve construction
-* 24.6.2026:
-    * Pre-stacks over Mfld
 * 1.7.2026:
+    * Pre-stacks over Mfld
     * Differentiable stacks
-    * Differentiable stacks vs. Lie groupoids
 * 8.7.2026:
+    * Differentiable stacks vs. Lie groupoids
     * Vishal Kannan: Sheaves on differentiable stacks
-    * Hypercohomology of differentiable stacks
 * 15.7.2026:
+    * Hypercohomology of differentiable stacks
     * Cohomology of differentiable stacks via atlases

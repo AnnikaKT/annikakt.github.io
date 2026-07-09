@@ -51,7 +51,12 @@ instagram_username: beinahemathematikerin
 theme: minima
 plugins:
   - jekyll-feed
-  
+
+header_pages:
+  - 01_talks.markdown
+  - 02_activities.markdown
+  - 03_teaching.markdown
+  - 04_talents.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

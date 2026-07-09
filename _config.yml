@@ -47,16 +47,16 @@ instagram_username: beinahemathematikerin
 # - username: jekyll2
 #   instance: example.com
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-
 header_pages:
   - 01_talks.markdown
   - 02_activities.markdown
   - 03_teaching.markdown
   - 04_talents.markdown
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -4,7 +4,7 @@ title:
 permalink: /seminar26/
 ---
 
-### Student seminar
+## Student seminar
 
 In the summer term of 2026, Christian Blohmann and I are holding a seminar for Master's students of Bonn university.
 

@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: 
 ---
 
--# Welcome to my homepage!
+# Welcome to my homepage!
 
 <figure style="float:right; padding-left:20px; padding-bottom:20px;">
   <img src="/pictures/Portrait.jpg" alt="Portrait from 2022" width="200"/>
